@@ -6,8 +6,8 @@ This is a fork of [rcswitch-pi](https://github.com/r10r/rcswitch-pi). The send.c
 ## Usage
 
 First you have to install the [wiringpi](http://wiringpi.com/download-and-install/) library.
-Afterwards, the example program can be compile be executing *make*.
-You may want to change the used GPIO pin before compilation in the send.cpp source file. By default GPIO17 will be used for sending data to the 433Mhz transmitter.
+Afterwards, the example program can be compiled by executing *make*.
+You may want to change the used GPIO pin in the send.cpp source file before compilation. By default GPIO17 will be used for sending data to the 433Mhz transmitter.
 
 The example program can be used as follows:
 ```
