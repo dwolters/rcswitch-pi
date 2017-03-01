@@ -13,4 +13,4 @@ The example program can be used as follows:
 ```
 sudo ./send <TriStateCode>
 ```
-Of course, *<TriStateCode>* must be replaced by a proper TriState code, e.g. *000000000FFF* (A01 On) or *000000000FF0* (A01 Off). Information on TriState codes can be found in the [FHEM wiki](http://www.fhemwiki.de/wiki/Intertechno_Code_Berechnung) (only available in German).
+Of course,``<TriStateCode>`` must be replaced by a proper TriState code, e.g. *000000000FFF* (A01 On) or *000000000FF0* (A01 Off). Information on TriState codes can be found in the [FHEM wiki](http://www.fhemwiki.de/wiki/Intertechno_Code_Berechnung) (only available in German).
